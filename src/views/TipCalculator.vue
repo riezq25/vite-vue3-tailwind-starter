@@ -11,7 +11,7 @@
   >
     <!-- logo -->
     <div class="mb-10">
-      <img src="../../public/images/logo.svg" />
+      <img src="../images/logo.svg" />
     </div>
 
     <!-- calc -->
@@ -32,7 +32,7 @@
           <div class="flex flex-col mb-10">
             <span class="mb-2">Bill</span>
             <div class="calc-input">
-              <span><img src="../../images/icon-dollar.svg" /></span>
+              <span><img src="../images/icon-dollar.svg" /></span>
               <input
                 class="person-input input"
                 type="number"
@@ -105,7 +105,7 @@
           <div class="flex flex-col">
             <span class="mb-2">Number of People</span>
             <div class="calc-input">
-              <span><img src="../../images/icon-person.svg" /></span>
+              <span><img src="../images/icon-person.svg" /></span>
               <input
                 class="person-input input"
                 type="number"
